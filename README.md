@@ -18,23 +18,36 @@ This repository aims to solve this problem by having a list of those important a
 ## Roadmap
 Many codies often say that they don’t have an exact idea of the roadmap to what they want to become.
 I was frequently being asked questions regarding the roadmaps to full-stack development, data science, machine learning, etc… And to all of them, look at here buddy!
-This repo contains roadmaps of many important stages and they have their official site too.
+
+The repository includes a set of well-structured roadmaps that outline the necessary skills and technologies to learn in each path of software development. Each roadmap is divided into different levels, such as beginner, intermediate, and advanced, and includes a list of tools, technologies, and resources to learn at each level.
+
+The roadmaps in the repository are designed to help developers navigate the overwhelming amount of information and resources available in the software development world. By following the roadmaps, developers can have a clear direction on what to learn next and how to progress in their career or personal projects.
 
 Repo link : https://github.com/kamranahmedse/developer-roadmap  
 Website : https://roadmap.sh/
 
 ## Awesome
 This repository seems like a Wikipedia page of a hell lot of things.  
-This repository contains awesome lists of all kinds of interesting topics such as Backend development, frontend development, Hardware, business, Media, Theory, Social science, etc.
+
+This repository contains awesome lists of all kinds of interesting topics. Especially provides a curated list of high-quality resources in various fields of software development.  
+
+The repository includes lists of resources on topics such as programming languages, frameworks, libraries, tools, design patterns, and more.  
+
+The repository is organized into multiple categories, and each category contains a list of resources related to that category. For example, the "JavaScript" category includes a list of resources related to JavaScript programming, such as libraries, frameworks, and articles.  
+
 Looking at this repo will just make you say… awesome!
 
 Repo link: https://github.com/sindresorhus/awesome
 
 ## Coding interview university
+
 There are many students around the world who are interested in becoming software developers but have no idea of what to study and how to crack the interviews!  
+
 Boom!! Here’s the boon.  
-This guy had collected the list of things that will help in studying and cracking the interviews to those who are planning to become software buddies.  
-This repo contains the study plan, coding problems, topics, etc.
+
+This repo provides a comprehensive list of topics and resources for preparing for coding interviews. The repository covers various topics such as data structures, algorithms, system design, databases, and more.
+
+The repository is organized into a well-structured curriculum that follows a step-by-step approach to preparing for coding interviews. Each topic includes a list of resources, including books, articles, videos, and practice problems, to help learners master the concept.
 
 Repo link: https://github.com/jwasham/coding-interview-university
 
