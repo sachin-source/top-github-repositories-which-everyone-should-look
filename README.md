@@ -7,7 +7,13 @@ This repository aims to solve this problem by having a list of those important a
 
 # Table of contents
 
-1. 
+1. [Roadmap](https://github.com/sachin-source/top-github-repositories-which-everyone-should-look#roadmap)
+2. [Awesome](https://github.com/sachin-source/top-github-repositories-which-everyone-should-look#awesome)
+3. [Coding interview university](https://github.com/sachin-source/top-github-repositories-which-everyone-should-look#coding-interview-university)
+4. [System design primer](https://github.com/sachin-source/top-github-repositories-which-everyone-should-look#system-design-primer)
+5. [Free code camp](https://github.com/sachin-source/top-github-repositories-which-everyone-should-look#freecodecamp)
+6. [Gitignore](https://github.com/sachin-source/top-github-repositories-which-everyone-should-look#gitignore)
+
 
 ## Roadmap
 Many codies often say that they don’t have an exact idea of the roadmap to what they want to become.
