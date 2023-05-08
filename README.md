@@ -78,7 +78,7 @@ This project is entirely free and open-source, which means that anyone can contr
 
 Repo link : https://github.com/freeCodeCamp/freeCodeCamp  
 
-## gitignore
+## Gitignore
 
 This repo provides a collection of `.gitignore` templates for various programming languages, frameworks, and tools. The `.gitignore` file is a configuration file that tells Git which files and directories to ignore when tracking changes in a project.
 
@@ -87,3 +87,94 @@ The repository includes a comprehensive set of `.gitignore` templates that can b
 Using a `.gitignore` file is essential in maintaining a clean and organized repository. By ignoring unnecessary files, developers can keep their repositories small, avoid accidentally committing sensitive information, and prevent merge conflicts caused by different file versions.
 
 Repo link : https://github.com/github/gitignore  
+
+## Free For Dev
+
+This repo provides a curated list of free services, software, and resources for developers.  
+It also  includes a list of various tools and services that developers can use for free, such as cloud hosting, domain registration, databases, email services, and more.
+
+The repository is organized into multiple categories, and each category contains a list of resources related to that category. For example, the "Hosting" category includes a list of free cloud hosting services, while the "Analytics" category includes a list of free analytics and tracking tools.
+
+Repo link : https://github.com/ripienaar/free-for-dev  
+Website link : https://free-for.dev/
+
+## Every programmer should know
+
+This repository has a  list of resources that every programmer should know. The repository covers a wide range of topics related to software development, including programming languages, algorithms, databases, security, and more.
+
+The repository is organized into multiple categories, and each category contains a list of resources related to that category. For example, the "Distributed Systems" category includes resources related to distributed systems, such as articles, books, and videos.
+
+Repo link : https://github.com/mtdvio/every-programmer-should-know
+
+## Tensorflow
+
+Tensorflow provides a comprehensive platform for developing and deploying machine learning models.  
+
+TensorFlow is one of the most popular machine learning libraries in the world, with a vast user community and an extensive range of applications.
+
+The repository contains the complete source code for TensorFlow, including its core libraries, tools, and examples.  
+
+TensorFlow supports a wide range of machine learning algorithms, including deep neural networks, convolutional neural networks, recurrent neural networks, and more.  
+
+It also supports distributed computing, which enables developers to scale their machine learning models across multiple devices and machines.
+
+The TensorFlow platform provides a high-level API that allows developers to build and train machine learning models quickly and easily.  
+
+The platform supports multiple programming languages, including Python, C++, Java, and Go, which makes it accessible to a wide range of developers.
+
+Repo Link : https://github.com/tensorflow/tensorflow
+
+## Public APIs
+
+This repository contains a great list of apis to play around them from various domains including sports, news and entertainment.
+
+The repository is organized into multiple categories, and each category contains a list of APIs related to that category. For example, the "Weather" category includes a list of APIs related to weather, such as OpenWeatherMap and Weatherbit.
+
+The repository also includes documentation on how to use the APIs and examples of how to integrate them into various programming languages, such as Python, Java, and JavaScript.
+
+The repository is widely used by developers around the world and is considered one of the go-to resources for finding high-quality and free APIs to use in their applications.
+
+Repo Link : https://github.com/public-apis/public-apis
+
+## JavaScript questions
+
+The repository is intended to help developers prepare for technical interviews, especially those that focus on JavaScript.
+
+The repository contains a vast collection of JavaScript questions, ranging from beginner-level to advanced-level. The questions cover a wide range of topics, including data types, functions, arrays, objects, prototypes, closures, and more.
+
+Each question in the repository includes a detailed explanation of the problem, followed by one or more solutions with explanations.
+
+The solutions provided in the repository are well-documented and follow best practices, making them an excellent learning resource for developers looking to improve their JavaScript skills.
+
+Repo Link : https://github.com/lydiahallie/javascript-questions
+
+## Best Websites a programmer should visit
+
+This repo provides a curated list of websites that programmers can use to improve their skills, learn new programming languages, and stay up-to-date with the latest industry trends.
+
+The repository is organized into multiple categories, and each category contains a list of websites related to that category.  
+For example, the "Online Learning" category includes a list of websites that offer online courses and tutorials, such as Codecademy, Coursera, and Udacity.
+
+Repo Link : https://github.com/sdmg15/Best-websites-a-programmer-should-visit/
+
+## React Native apps
+
+This repo contains curated list of open-source React Native apps that developers can use as examples or as a starting point for their own projects.
+
+The repository contains a wide range of apps, from simple to complex, and covers a variety of categories, such as productivity, social networking, e-commerce, health and fitness, and more. Each app listed in the repository includes a brief description of its features and functionality.
+
+This repository provides an excellent way for developers to find high-quality, open-source React Native apps, and use them as a reference for their own projects.
+
+Repo Link : https://github.com/ReactNativeNews/React-Native-Apps
+
+## Build Your own X
+
+This repo helps you understand and build your own clones of many projects from code editor to your own database.
+
+This provides a curated list of tutorials and resources for building your own version of popular software tools and applications.
+
+The repository is organized into categories, each of which contains a list of resources related to that category. For example, the "Build your own Text Editor" category includes tutorials and resources for building a text editor from scratch.
+
+The repository also includes a brief description of each resource and why it is useful for developers. This makes it easier for users to find the resources that are relevant to their needs.
+
+Repo Link : https://github.com/codecrafters-io/build-your-own-x
