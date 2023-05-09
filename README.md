@@ -178,3 +178,56 @@ The repository is organized into categories, each of which contains a list of re
 The repository also includes a brief description of each resource and why it is useful for developers. This makes it easier for users to find the resources that are relevant to their needs.
 
 Repo Link : https://github.com/codecrafters-io/build-your-own-x
+
+
+## Tech Interview Handbook
+
+This repo contains a comprehensive guide for anyone preparing for technical job interviews, particularly in the field of software engineering. The repository was created by Yangshun Tay, a software engineer based in Singapore, and is available to the public for free.
+
+The handbook is organized into several sections, covering a range of topics related to technical interviews. Some of the main sections include data structures and algorithms, system design, behavior questions, and coding questions. Each section includes detailed explanations, sample questions, and tips on how to approach different types of questions.
+
+In addition to the main content, the repository also includes additional resources such as links to online coding challenges, mock interview platforms, and recommended books for further study.
+
+Repo Link : https://github.com/yangshun/tech-interview-handbook
+
+## JavaScript Algorithms and Data Structures
+
+The "JavaScript Algorithms and Data Structures" repository on GitHub is a collection of various computer science algorithms and data structures implemented in the JavaScript programming language.
+
+The repository includes various algorithms and data structures implemented in JavaScript, including sorting algorithms, searching algorithms, graph algorithms, and many more.
+
+Each algorithm or data structure has its own directory in the repository, which includes a JavaScript implementation of the algorithm or data structure, as well as a detailed explanation of how it works and how it can be used.
+
+In addition to the main content, the repository also includes additional resources such as links to online courses, tutorials, and books for further study.
+
+There are also solutions to various coding challenges implemented in the JavaScript language, which can be useful for anyone looking to improve their coding skills.
+
+Repo Link : https://github.com/trekhleb/javascript-algorithms
+
+## Free for Dev
+
+The "Free for Dev" repository on GitHub is a curated list of various software tools and services that are available for free or offer a free tier for developers.
+
+The repository includes a wide variety of tools and services that developers can use for various purposes, such as hosting, analytics, databases, development tools, and many more.
+
+Each tool or service has its own directory in the repository, which includes a brief description of what it does, how it can be used, and whether it offers a free tier or not.
+
+The goal of the "Free for Dev" repository is to help developers find high-quality tools and services that they can use without incurring any costs, particularly those who are just starting out and may not have the budget to pay for expensive tools and services.
+
+The repository is also useful for experienced developers who want to explore new tools and services or experiment with different technologies without committing to a paid subscription.
+
+Repo Link : https://github.com/ripienaar/free-for-dev
+
+## Design Resources for Developers
+
+The "Design Resources for Developers" repository on GitHub is a curated list of various design-related tools and resources that are useful for developers.
+
+The repository was created by Brad Traversy, a web developer and online instructor, and is available to the public for free.
+
+The repository includes a wide range of design resources, such as color palettes, fonts, icons, stock photos, design inspiration, and many more.
+
+Each resource has its own directory in the repository, which includes a brief description of what it is and how it can be used.
+
+In addition to the main content, the repository also includes links to various design-related tutorials, courses, and tools, which can be useful for developers who want to improve their design skills.
+There are also resources specifically for web design, such as responsive design frameworks, CSS libraries, and web design inspiration sites.
+
