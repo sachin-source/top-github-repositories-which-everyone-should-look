@@ -13,6 +13,18 @@ This repository aims to solve this problem by having a list of those important a
 4. [System design primer](https://github.com/sachin-source/top-github-repositories-which-everyone-should-look#system-design-primer)
 5. [Free code camp](https://github.com/sachin-source/top-github-repositories-which-everyone-should-look#freecodecamp)
 6. [Gitignore](https://github.com/sachin-source/top-github-repositories-which-everyone-should-look#gitignore)
+7. [Free for Dev](https://github.com/sachin-source/top-github-repositories-which-everyone-should-look#free-for-dev)
+8. [Every programmer should know](https://github.com/sachin-source/top-github-repositories-which-everyone-should-look#every-programmer-should-know)
+9. [Tensorflow](https://github.com/sachin-source/top-github-repositories-which-everyone-should-look#tensorflow)
+10. [Public APIs](https://github.com/sachin-source/top-github-repositories-which-everyone-should-look#public-apis)
+11. [Javascript questions](https://github.com/sachin-source/top-github-repositories-which-everyone-should-look#javascript-questions)
+12. [Best websites a programmer should visit](https://github.com/sachin-source/top-github-repositories-which-everyone-should-look#best-websites-a-programmer-should-visit)
+13. [React Native Apps](https://github.com/sachin-source/top-github-repositories-which-everyone-should-look#react-native-apps)
+14. [Build your own X](https://github.com/sachin-source/top-github-repositories-which-everyone-should-look#build-your-own-x)
+15. [Tech interview handbook](https://github.com/sachin-source/top-github-repositories-which-everyone-should-look#tech-interview-handbook)
+16. [Javascript Algorithms and Data Structures](https://github.com/sachin-source/top-github-repositories-which-everyone-should-look#javascript-algorithms-and-data-structures)
+17. [Free for Dev](https://github.com/sachin-source/top-github-repositories-which-everyone-should-look#free-for-dev-1)
+18. [Design Resources for Developers](https://github.com/sachin-source/top-github-repositories-which-everyone-should-look#design-resources-for-developers)
 
 
 ## Roadmap
