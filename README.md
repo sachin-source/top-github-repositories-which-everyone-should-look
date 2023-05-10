@@ -25,7 +25,7 @@ This repository aims to solve this problem by having a list of those important a
 16. [Javascript Algorithms and Data Structures](https://github.com/sachin-source/top-github-repositories-which-everyone-should-look#javascript-algorithms-and-data-structures)
 17. [Free for Dev](https://github.com/sachin-source/top-github-repositories-which-everyone-should-look#free-for-dev-1)
 18. [Design Resources for Developers](https://github.com/sachin-source/top-github-repositories-which-everyone-should-look#design-resources-for-developers)
-
+19. [Project based learning](https://github.com/practical-tutorials/project-based-learning)
 
 ## Roadmap
 Many codies often say that they don’t have an exact idea of the roadmap to what they want to become.
@@ -243,3 +243,18 @@ Each resource has its own directory in the repository, which includes a brief de
 In addition to the main content, the repository also includes links to various design-related tutorials, courses, and tools, which can be useful for developers who want to improve their design skills.
 There are also resources specifically for web design, such as responsive design frameworks, CSS libraries, and web design inspiration sites.
 
+Repo Link : https://github.com/bradtraversy/design-resources-for-developers
+
+## Project Based Learning
+
+This repository contains a collection of project ideas that are designed to help individuals learn and practice different programming and technology skills.
+
+These projects cover a wide range of topics, including web development, data science, machine learning, computer vision, game development, and more.
+
+Each project includes a detailed description of the skills involved, the tools and technologies required, and step-by-step instructions for building the project.
+
+This resource can be helpful for beginners who are looking to improve their programming skills, as well as for experienced developers who are looking for new challenges and opportunities to learn.
+
+The projects are designed to be hands-on and engaging, and they encourage learners to experiment and explore new ideas.
+
+Repo Link : https://github.com/practical-tutorials/project-based-learning
