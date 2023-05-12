@@ -25,7 +25,7 @@ This repository aims to solve this problem by having a list of those important a
 16. [Javascript Algorithms and Data Structures](https://github.com/sachin-source/top-github-repositories-which-everyone-should-look#javascript-algorithms-and-data-structures)
 17. [Free for Dev](https://github.com/sachin-source/top-github-repositories-which-everyone-should-look#free-for-dev-1)
 18. [Design Resources for Developers](https://github.com/sachin-source/top-github-repositories-which-everyone-should-look#design-resources-for-developers)
-19. [Project based learning](https://github.com/practical-tutorials/project-based-learning)
+19. [Project based learning](https://github.com/sachin-source/top-github-repositories-which-everyone-should-look#project-based-learning)
 
 ## Roadmap
 Many codies often say that they don’t have an exact idea of the roadmap to what they want to become.
