@@ -26,6 +26,7 @@ This repository aims to solve this problem by having a list of those important a
 17. [Free for Dev](https://github.com/sachin-source/top-github-repositories-which-everyone-should-look#free-for-dev-1)
 18. [Design Resources for Developers](https://github.com/sachin-source/top-github-repositories-which-everyone-should-look#design-resources-for-developers)
 19. [Project based learning](https://github.com/sachin-source/top-github-repositories-which-everyone-should-look#project-based-learning)
+20. [Tech jobs with relocation](https://github.com/sachin-source/top-github-repositories-which-everyone-should-look#tech-jobs-with-relocation)
 
 ## Roadmap
 Many codies often say that they don’t have an exact idea of the roadmap to what they want to become.
@@ -258,3 +259,14 @@ This resource can be helpful for beginners who are looking to improve their prog
 The projects are designed to be hands-on and engaging, and they encourage learners to experiment and explore new ideas.
 
 Repo Link : https://github.com/practical-tutorials/project-based-learning
+
+
+## Tech Jobs with Relocation
+
+This repo maintains a great list of tech job opportunities from various companies across the world that offer relocation packages for new employees. The repository was created by Andrew Stetsenko, a software developer and entrepreneur based in Ukraine, and is available to the public for free.
+
+The repository includes job opportunities for a wide range of tech-related positions, including software developers, data scientists, designers, project managers, and many more. Each job listing includes information about the company, the position, the location, and the relocation package offered, making it easy for job seekers to find relevant opportunities.
+
+In addition to the main job listings, the repository also includes resources and tips for job seekers looking to relocate for work, such as information about visa requirements, tips for preparing for interviews, and links to articles and resources about living and working in various countries.
+
+Repo Link : https://github.com/AndrewStetsenko/tech-jobs-with-relocation/
