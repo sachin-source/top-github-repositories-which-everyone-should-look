@@ -27,6 +27,7 @@ This repository aims to solve this problem by having a list of those important a
 18. [Design Resources for Developers](https://github.com/sachin-source/top-github-repositories-which-everyone-should-look#design-resources-for-developers)
 19. [Project based learning](https://github.com/sachin-source/top-github-repositories-which-everyone-should-look#project-based-learning)
 20. [Tech jobs with relocation](https://github.com/sachin-source/top-github-repositories-which-everyone-should-look#tech-jobs-with-relocation)
+21. [The Algorithms](https://github.com/sachin-source/top-github-repositories-which-everyone-should-look#the-algorithms)
 
 ## Roadmap
 Many codies often say that they don’t have an exact idea of the roadmap to what they want to become.
@@ -270,3 +271,13 @@ The repository includes job opportunities for a wide range of tech-related posit
 In addition to the main job listings, the repository also includes resources and tips for job seekers looking to relocate for work, such as information about visa requirements, tips for preparing for interviews, and links to articles and resources about living and working in various countries.
 
 Repo Link : https://github.com/AndrewStetsenko/tech-jobs-with-relocation/
+
+## The Algorithms
+
+This repository aims to provide a collection of algorithms implemented in various programming languages. It covers a wide range of algorithms, including sorting algorithms, searching algorithms, graph algorithms, mathematical algorithms, and more.
+
+By visiting the repository, you can browse through the available algorithms, explore the different programming language implementations, and even contribute to the project if you're interested. The repository typically includes code samples, explanations, and documentation to help users understand and utilize the algorithms effectively.
+
+The best part is, you can get the algorithms in many different popular languages.
+
+Repo Link : https://github.com/TheAlgorithms
