@@ -281,3 +281,13 @@ By visiting the repository, you can browse through the available algorithms, exp
 The best part is, you can get the algorithms in many different popular languages.
 
 Repo Link : https://github.com/TheAlgorithms
+
+## You Don't Know JS
+
+The repository contains multiple books that cover various aspects of JavaScript, ranging from the fundamentals to more advanced topics. The book series is designed to help developers gain a deeper understanding of JavaScript and overcome common misconceptions and pitfalls.
+
+Each book in the series has its own directory in the repository and is accompanied by code examples and exercises to reinforce the concepts covered. The books are organized in a logical and progressive manner, making it easier for readers to grasp complex JavaScript concepts.
+
+In addition to the book content, the repository also includes additional resources, such as links to related articles, videos, and online discussions. These resources provide supplementary information and further exploration of the topics covered in the book series.
+
+Repo Link : https://github.com/getify/You-Dont-Know-JS/
