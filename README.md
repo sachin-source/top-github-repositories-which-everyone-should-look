@@ -29,6 +29,8 @@ This repository aims to solve this problem by having a list of those important a
 20. [Tech jobs with relocation](https://github.com/sachin-source/top-github-repositories-which-everyone-should-look#tech-jobs-with-relocation)
 21. [The Algorithms](https://github.com/sachin-source/top-github-repositories-which-everyone-should-look#the-algorithms)
 22. [You don't know js](https://github.com/sachin-source/top-github-repositories-which-everyone-should-look#you-dont-know-js)
+23. [Best-websites-a-programmer-should-visit](https://github.com/sachin-source/top-github-repositories-which-everyone-should-look#best-websites-a-programmer-should-visit)
+
 
 ## Roadmap
 Many codies often say that they don’t have an exact idea of the roadmap to what they want to become.
@@ -292,3 +294,13 @@ Each book in the series has its own directory in the repository and is accompani
 In addition to the book content, the repository also includes additional resources, such as links to related articles, videos, and online discussions. These resources provide supplementary information and further exploration of the topics covered in the book series.
 
 Repo Link : https://github.com/getify/You-Dont-Know-JS/
+
+## Best-websites-a-programmer-should-visit
+
+This repository is a popular and widely recognized compilation of websites that programmers may find valuable for various purposes. It serves as a curated list of resources that can assist programmers in learning, practicing, and staying up to date with the latest developments in the field.
+
+The repository is organized into several categories, covering a wide range of programming-related topics. Some of the categories include coding practice and challenges, programming news and blogs, learning platforms and tutorials, design and development tools, and communities for programmers to connect and collaborate.
+
+Each category contains a list of websites that are considered helpful or noteworthy by the repository's contributors. Users can explore the list and visit the websites directly to access the resources and information they offer. The repository encourages community participation, allowing users to contribute by suggesting new websites or making improvements to the existing list.
+
+Repo Link : https://github.com/sdmg15/Best-websites-a-programmer-should-visit
