@@ -84,7 +84,7 @@ Recommended books, articles, and videos for further learning.
 Repo link: https://github.com/donnemartin/system-design-primer  
 
 ## Freecodecamp
-Freecodecap is an open-source project aimed at helping people learn to code for free. The project consists of a comprehensive curriculum of coding challenges and projects that cover a wide range of topics, including HTML, CSS, JavaScript, React, Node.js, Databases, and more. The repository includes:  
+Freecodecamp is an open-source project aimed at helping people learn to code for free. The project consists of a comprehensive curriculum of coding challenges and projects that cover a wide range of topics, including HTML, CSS, JavaScript, React, Node.js, Databases, and more. The repository includes:  
 - The codebase for the freeCodeCamp curriculum, which is organized into a series of certifications that cover different aspects of web development.
 - A web-based platform where users can access the curriculum and complete coding challenges and projects.
 - A community of learners and volunteers who help to maintain the curriculum, provide support to learners, and contribute to the project in various ways.
