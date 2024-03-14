@@ -7,7 +7,7 @@ This repository aims to solve this problem by having a list of those important a
 
 ## Table of contents
 
-1. [Roadmap](https://github.com/sachin-source/top-github-repositories-which-everyone-should-look#roadmap)
+1. [Roadmap](#roadmap)
 2. [Awesome](https://github.com/sachin-source/top-github-repositories-which-everyone-should-look#awesome)
 3. [Coding interview university](https://github.com/sachin-source/top-github-repositories-which-everyone-should-look#coding-interview-university)
 4. [System design primer](https://github.com/sachin-source/top-github-repositories-which-everyone-should-look#system-design-primer)
@@ -41,6 +41,10 @@ The roadmaps in the repository are designed to help developers navigate the over
 
 Repo link : https://github.com/kamranahmedse/developer-roadmap  
 Website : https://roadmap.sh/
+
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
 
 ## Awesome
 This repository seems like a Wikipedia page of a hell lot of things.  
