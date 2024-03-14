@@ -376,17 +376,6 @@ In addition to the book content, the repository also includes additional resourc
 
 Repo Link : https://github.com/getify/You-Dont-Know-JS/
 
-
-## Best-websites-a-programmer-should-visit
-
-This repository is a popular and widely recognized compilation of websites that programmers may find valuable for various purposes. It serves as a curated list of resources that can assist programmers in learning, practicing, and staying up to date with the latest developments in the field.
-
-The repository is organized into several categories, covering a wide range of programming-related topics. Some of the categories include coding practice and challenges, programming news and blogs, learning platforms and tutorials, design and development tools, and communities for programmers to connect and collaborate.
-
-Each category contains a list of websites that are considered helpful or noteworthy by the repository's contributors. Users can explore the list and visit the websites directly to access the resources and information they offer. The repository encourages community participation, allowing users to contribute by suggesting new websites or making improvements to the existing list.
-
-Repo Link : https://github.com/sdmg15/Best-websites-a-programmer-should-visit
-
 <div align="right">
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
