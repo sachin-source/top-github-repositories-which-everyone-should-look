@@ -5,7 +5,7 @@ But many times these repositories and the efforts of their authors go into veins
 
 This repository aims to solve this problem by having a list of those important and powerful repositories which can change the life of many students, coders, researchers, bew tech-bees and the list goes on.
 
-# Table of contents
+## Table of contents
 
 1. [Roadmap](https://github.com/sachin-source/top-github-repositories-which-everyone-should-look#roadmap)
 2. [Awesome](https://github.com/sachin-source/top-github-repositories-which-everyone-should-look#awesome)
