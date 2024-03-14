@@ -23,12 +23,11 @@ This repository aims to solve this problem by having a list of those important a
 14. [Build your own X](#build-your-own-x)
 15. [Tech interview handbook](#tech-interview-handbook)
 16. [Javascript Algorithms and Data Structures](#javascript-algorithms-and-data-structures)
-17. [Free for Dev](#free-for-dev-1)
-18. [Design Resources for Developers](#design-resources-for-developers)
-19. [Project based learning](#project-based-learning)
-20. [Tech jobs with relocation](#tech-jobs-with-relocation)
-21. [The Algorithms](#the-algorithms)
-22. [You don't know js](#you-dont-know-js)
+17. [Design Resources for Developers](#design-resources-for-developers)
+18. [Project based learning](#project-based-learning)
+19. [Tech jobs with relocation](#tech-jobs-with-relocation)
+20. [The Algorithms](#the-algorithms)
+21. [You don't know js](#you-dont-know-js)
 
 
 ## Roadmap
@@ -278,24 +277,6 @@ In addition to the main content, the repository also includes additional resourc
 There are also solutions to various coding challenges implemented in the JavaScript language, which can be useful for anyone looking to improve their coding skills.
 
 Repo Link : https://github.com/trekhleb/javascript-algorithms
-
-<div align="right">
-  <b><a href="#table-of-contents">↥ Back To Top</a></b>
-</div>
-
-## Free for Dev
-
-The "Free for Dev" repository on GitHub is a curated list of various software tools and services that are available for free or offer a free tier for developers.
-
-The repository includes a wide variety of tools and services that developers can use for various purposes, such as hosting, analytics, databases, development tools, and many more.
-
-Each tool or service has its own directory in the repository, which includes a brief description of what it does, how it can be used, and whether it offers a free tier or not.
-
-The goal of the "Free for Dev" repository is to help developers find high-quality tools and services that they can use without incurring any costs, particularly those who are just starting out and may not have the budget to pay for expensive tools and services.
-
-The repository is also useful for experienced developers who want to explore new tools and services or experiment with different technologies without committing to a paid subscription.
-
-Repo Link : https://github.com/ripienaar/free-for-dev
 
 <div align="right">
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
