@@ -5,31 +5,30 @@ But many times these repositories and the efforts of their authors go into veins
 
 This repository aims to solve this problem by having a list of those important and powerful repositories which can change the life of many students, coders, researchers, bew tech-bees and the list goes on.
 
-# Table of contents
+## Table of contents
 
-1. [Roadmap](https://github.com/sachin-source/top-github-repositories-which-everyone-should-look#roadmap)
-2. [Awesome](https://github.com/sachin-source/top-github-repositories-which-everyone-should-look#awesome)
-3. [Coding interview university](https://github.com/sachin-source/top-github-repositories-which-everyone-should-look#coding-interview-university)
-4. [System design primer](https://github.com/sachin-source/top-github-repositories-which-everyone-should-look#system-design-primer)
-5. [Free code camp](https://github.com/sachin-source/top-github-repositories-which-everyone-should-look#freecodecamp)
-6. [Gitignore](https://github.com/sachin-source/top-github-repositories-which-everyone-should-look#gitignore)
-7. [Free for Dev](https://github.com/sachin-source/top-github-repositories-which-everyone-should-look#free-for-dev)
-8. [Every programmer should know](https://github.com/sachin-source/top-github-repositories-which-everyone-should-look#every-programmer-should-know)
-9. [Tensorflow](https://github.com/sachin-source/top-github-repositories-which-everyone-should-look#tensorflow)
-10. [Public APIs](https://github.com/sachin-source/top-github-repositories-which-everyone-should-look#public-apis)
-11. [Javascript questions](https://github.com/sachin-source/top-github-repositories-which-everyone-should-look#javascript-questions)
-12. [Best websites a programmer should visit](https://github.com/sachin-source/top-github-repositories-which-everyone-should-look#best-websites-a-programmer-should-visit)
-13. [React Native Apps](https://github.com/sachin-source/top-github-repositories-which-everyone-should-look#react-native-apps)
-14. [Build your own X](https://github.com/sachin-source/top-github-repositories-which-everyone-should-look#build-your-own-x)
-15. [Tech interview handbook](https://github.com/sachin-source/top-github-repositories-which-everyone-should-look#tech-interview-handbook)
-16. [Javascript Algorithms and Data Structures](https://github.com/sachin-source/top-github-repositories-which-everyone-should-look#javascript-algorithms-and-data-structures)
-17. [Free for Dev](https://github.com/sachin-source/top-github-repositories-which-everyone-should-look#free-for-dev-1)
-18. [Design Resources for Developers](https://github.com/sachin-source/top-github-repositories-which-everyone-should-look#design-resources-for-developers)
-19. [Project based learning](https://github.com/sachin-source/top-github-repositories-which-everyone-should-look#project-based-learning)
-20. [Tech jobs with relocation](https://github.com/sachin-source/top-github-repositories-which-everyone-should-look#tech-jobs-with-relocation)
-21. [The Algorithms](https://github.com/sachin-source/top-github-repositories-which-everyone-should-look#the-algorithms)
-22. [You don't know js](https://github.com/sachin-source/top-github-repositories-which-everyone-should-look#you-dont-know-js)
-23. [Best-websites-a-programmer-should-visit](https://github.com/sachin-source/top-github-repositories-which-everyone-should-look#best-websites-a-programmer-should-visit)
+1. [Roadmap](#roadmap)
+2. [Awesome](#awesome)
+3. [Coding interview university](#coding-interview-university)
+4. [System design primer](#system-design-primer)
+5. [Free code camp](#freecodecamp)
+6. [Gitignore](#gitignore)
+7. [Free for Dev](#free-for-dev)
+8. [Every programmer should know](#every-programmer-should-know)
+9. [Tensorflow](#tensorflow)
+10. [Public APIs](#public-apis)
+11. [Javascript questions](#javascript-questions)
+12. [Best websites a programmer should visit](#best-websites-a-programmer-should-visit)
+13. [React Native Apps](#react-native-apps)
+14. [Build your own X](#build-your-own-x)
+15. [Tech interview handbook](#tech-interview-handbook)
+16. [Javascript Algorithms and Data Structures](#javascript-algorithms-and-data-structures)
+17. [Free for Dev](#free-for-dev-1)
+18. [Design Resources for Developers](#design-resources-for-developers)
+19. [Project based learning](#project-based-learning)
+20. [Tech jobs with relocation](#tech-jobs-with-relocation)
+21. [The Algorithms](#the-algorithms)
+22. [You don't know js](#you-dont-know-js)
 
 
 ## Roadmap
@@ -42,6 +41,10 @@ The roadmaps in the repository are designed to help developers navigate the over
 
 Repo link : https://github.com/kamranahmedse/developer-roadmap  
 Website : https://roadmap.sh/
+
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
 
 ## Awesome
 This repository seems like a Wikipedia page of a hell lot of things.  
@@ -56,6 +59,10 @@ Looking at this repo will just make you say… awesome!
 
 Repo link: https://github.com/sindresorhus/awesome
 
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
 ## Coding interview university
 
 There are many students around the world who are interested in becoming software developers but have no idea of what to study and how to crack the interviews!  
@@ -67,6 +74,10 @@ This repo provides a comprehensive list of topics and resources for preparing fo
 The repository is organized into a well-structured curriculum that follows a step-by-step approach to preparing for coding interviews. Each topic includes a list of resources, including books, articles, videos, and practice problems, to help learners master the concept.
 
 Repo link: https://github.com/jwasham/coding-interview-university
+
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
 
 ##  System design primer
 This is an open-source collection of resources to help software engineers prepare for technical interviews related to system design. The repo includes:
@@ -83,6 +94,10 @@ Recommended books, articles, and videos for further learning.
 
 Repo link: https://github.com/donnemartin/system-design-primer  
 
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
 ## Freecodecamp
 Freecodecamp is an open-source project aimed at helping people learn to code for free. The project consists of a comprehensive curriculum of coding challenges and projects that cover a wide range of topics, including HTML, CSS, JavaScript, React, Node.js, Databases, and more. The repository includes:  
 - The codebase for the freeCodeCamp curriculum, which is organized into a series of certifications that cover different aspects of web development.
@@ -95,6 +110,10 @@ This project is entirely free and open-source, which means that anyone can contr
 
 Repo link : https://github.com/freeCodeCamp/freeCodeCamp  
 
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
 ## Gitignore
 
 This repo provides a collection of `.gitignore` templates for various programming languages, frameworks, and tools. The `.gitignore` file is a configuration file that tells Git which files and directories to ignore when tracking changes in a project.
@@ -104,6 +123,10 @@ The repository includes a comprehensive set of `.gitignore` templates that can b
 Using a `.gitignore` file is essential in maintaining a clean and organized repository. By ignoring unnecessary files, developers can keep their repositories small, avoid accidentally committing sensitive information, and prevent merge conflicts caused by different file versions.
 
 Repo link : https://github.com/github/gitignore  
+
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
 
 ## Free For Dev
 
@@ -115,6 +138,10 @@ The repository is organized into multiple categories, and each category contains
 Repo link : https://github.com/ripienaar/free-for-dev  
 Website link : https://free-for.dev/
 
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
 ## Every programmer should know
 
 This repository has a  list of resources that every programmer should know. The repository covers a wide range of topics related to software development, including programming languages, algorithms, databases, security, and more.
@@ -122,6 +149,10 @@ This repository has a  list of resources that every programmer should know. The 
 The repository is organized into multiple categories, and each category contains a list of resources related to that category. For example, the "Distributed Systems" category includes resources related to distributed systems, such as articles, books, and videos.
 
 Repo link : https://github.com/mtdvio/every-programmer-should-know
+
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
 
 ## Tensorflow
 
@@ -141,6 +172,10 @@ The platform supports multiple programming languages, including Python, C++, Jav
 
 Repo Link : https://github.com/tensorflow/tensorflow
 
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
 ## Public APIs
 
 This repository contains a great list of apis to play around them from various domains including sports, news and entertainment.
@@ -152,6 +187,10 @@ The repository also includes documentation on how to use the APIs and examples o
 The repository is widely used by developers around the world and is considered one of the go-to resources for finding high-quality and free APIs to use in their applications.
 
 Repo Link : https://github.com/public-apis/public-apis
+
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
 
 ## JavaScript questions
 
@@ -165,6 +204,10 @@ The solutions provided in the repository are well-documented and follow best pra
 
 Repo Link : https://github.com/lydiahallie/javascript-questions
 
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
 ## Best Websites a programmer should visit
 
 This repo provides a curated list of websites that programmers can use to improve their skills, learn new programming languages, and stay up-to-date with the latest industry trends.
@@ -173,6 +216,10 @@ The repository is organized into multiple categories, and each category contains
 For example, the "Online Learning" category includes a list of websites that offer online courses and tutorials, such as Codecademy, Coursera, and Udacity.
 
 Repo Link : https://github.com/sdmg15/Best-websites-a-programmer-should-visit/
+
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
 
 ## React Native apps
 
@@ -183,6 +230,10 @@ The repository contains a wide range of apps, from simple to complex, and covers
 This repository provides an excellent way for developers to find high-quality, open-source React Native apps, and use them as a reference for their own projects.
 
 Repo Link : https://github.com/ReactNativeNews/React-Native-Apps
+
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
 
 ## Build Your own X
 
@@ -196,6 +247,9 @@ The repository also includes a brief description of each resource and why it is 
 
 Repo Link : https://github.com/codecrafters-io/build-your-own-x
 
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
 
 ## Tech Interview Handbook
 
@@ -206,6 +260,10 @@ The handbook is organized into several sections, covering a range of topics rela
 In addition to the main content, the repository also includes additional resources such as links to online coding challenges, mock interview platforms, and recommended books for further study.
 
 Repo Link : https://github.com/yangshun/tech-interview-handbook
+
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
 
 ## JavaScript Algorithms and Data Structures
 
@@ -221,6 +279,10 @@ There are also solutions to various coding challenges implemented in the JavaScr
 
 Repo Link : https://github.com/trekhleb/javascript-algorithms
 
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
 ## Free for Dev
 
 The "Free for Dev" repository on GitHub is a curated list of various software tools and services that are available for free or offer a free tier for developers.
@@ -234,6 +296,10 @@ The goal of the "Free for Dev" repository is to help developers find high-qualit
 The repository is also useful for experienced developers who want to explore new tools and services or experiment with different technologies without committing to a paid subscription.
 
 Repo Link : https://github.com/ripienaar/free-for-dev
+
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
 
 ## Design Resources for Developers
 
@@ -250,6 +316,10 @@ There are also resources specifically for web design, such as responsive design 
 
 Repo Link : https://github.com/bradtraversy/design-resources-for-developers
 
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
 ## Project Based Learning
 
 This repository contains a collection of project ideas that are designed to help individuals learn and practice different programming and technology skills.
@@ -264,6 +334,9 @@ The projects are designed to be hands-on and engaging, and they encourage learne
 
 Repo Link : https://github.com/practical-tutorials/project-based-learning
 
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
 
 ## Tech Jobs with Relocation
 
@@ -275,6 +348,10 @@ In addition to the main job listings, the repository also includes resources and
 
 Repo Link : https://github.com/AndrewStetsenko/tech-jobs-with-relocation/
 
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
 ## The Algorithms
 
 This repository aims to provide a collection of algorithms implemented in various programming languages. It covers a wide range of algorithms, including sorting algorithms, searching algorithms, graph algorithms, mathematical algorithms, and more.
@@ -285,15 +362,20 @@ The best part is, you can get the algorithms in many different popular languages
 
 Repo Link : https://github.com/TheAlgorithms
 
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
 ## You Don't Know JS
 
 The repository contains multiple books that cover various aspects of JavaScript, ranging from the fundamentals to more advanced topics. The book series is designed to help developers gain a deeper understanding of JavaScript and overcome common misconceptions and pitfalls.
 
-Each book in the series has its own directory in the repository and is accompanied by code examples and exercises to reinforce the concepts covered. The books are organized in a logical and progressive manner, making it easier for readers to grasp complex JavaScript concepts.
+Each book in the series has its directory in the repository and is accompanied by code examples and exercises to reinforce the concepts covered. The books are organized logically and progressively, making it easier for readers to grasp complex JavaScript concepts.
 
 In addition to the book content, the repository also includes additional resources, such as links to related articles, videos, and online discussions. These resources provide supplementary information and further exploration of the topics covered in the book series.
 
 Repo Link : https://github.com/getify/You-Dont-Know-JS/
+
 
 ## Best-websites-a-programmer-should-visit
 
@@ -304,3 +386,8 @@ The repository is organized into several categories, covering a wide range of pr
 Each category contains a list of websites that are considered helpful or noteworthy by the repository's contributors. Users can explore the list and visit the websites directly to access the resources and information they offer. The repository encourages community participation, allowing users to contribute by suggesting new websites or making improvements to the existing list.
 
 Repo Link : https://github.com/sdmg15/Best-websites-a-programmer-should-visit
+
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
