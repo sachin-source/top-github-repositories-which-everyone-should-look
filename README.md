@@ -28,7 +28,7 @@ This repository aims to solve this problem by having a list of those important a
 19. [Tech jobs with relocation](#tech-jobs-with-relocation)
 20. [The Algorithms](#the-algorithms)
 21. [You don't know js](#you-dont-know-js)
-
+22. [Curated List of DevOps Tools](#curated-List-of-devops-tools)
 
 ## Roadmap
 Many codies often say that they don’t have an exact idea of the roadmap to what they want to become.
@@ -361,3 +361,14 @@ Repo Link : https://github.com/getify/You-Dont-Know-JS/
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
+## Curated List of DevOps Tools
+
+This repository contains a curated collection of DevOps tools. including descriptions, installation instructions, configurations, documentation, usage examples, and community resources. Users can explore and contribute to the repository to enhance their DevOps practices.
+
+One can refer to this repository as a started guide and a good reference book for a DevOps career.
+
+Repo Link : https://github.com/techiescamp/devops-tools/
+
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
