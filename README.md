@@ -33,6 +33,7 @@ This repository aims to solve this problem by having a list of those important a
 24. [What happens when](#what-happens-when)
 25. [30 seconds of code](#30-seconds-of-code)
 26. [System design](#system-design)
+27. [Devops exercises](#devops-exercises)
 
 ## Roadmap
 Many codies often say that they don’t have an exact idea of the roadmap to what they want to become.
@@ -437,6 +438,22 @@ With real-world examples like WhatsApp and Netflix, the repository offers valuab
 
 Repo link: https://github.com/karanpratapsingh/system-design
 Website : https://www.karanpratapsingh.com/courses/system-design
+
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
+##  Devops exercises
+
+The "devops-exercises" repository is a rich collection of technical questions and exercises, covering various topics, with a focus on DevOps and SRE (Site Reliability Engineering).
+
+Currently boasting 2600+ exercises, it serves as a valuable resource for interview preparation, though many questions may not reflect actual interview scenarios.
+
+While beneficial for aspiring DevOps engineers, it's important to note that mastering all topics isn't necessary, and understanding key concepts is more critical.
+
+The repository also includes a FAQ page for further guidance.
+
+Repo link: https://github.com/bregman-arie/devops-exercises
 
 <div align="right">
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
