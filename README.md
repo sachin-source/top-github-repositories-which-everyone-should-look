@@ -31,6 +31,7 @@ This repository aims to solve this problem by having a list of those important a
 22. [Curated List of DevOps Tools](#curated-List-of-devops-tools)
 23. [Interviews](#interviews)
 24. [What happens when](#what-happens-when)
+25. [30 seconds of code](#30-seconds-of-code)
 
 ## Roadmap
 Many codies often say that they don’t have an exact idea of the roadmap to what they want to become.
@@ -378,8 +379,11 @@ Repo Link : https://github.com/techiescamp/devops-tools/
 ##  Interviews
 
 This repository is a comprehensive resource for technical interview preparation in software engineering.
+
 It covers topics like data structures, algorithms, system design, and coding challenges.
+
 Organized with clear sections, it offers a structured approach for studying.
+
 Contributors can enhance its content, and also includes additional resources and contact information for inquiries.
 
 Repo link: https://github.com/kdn251/interviews  
@@ -392,8 +396,10 @@ Repo link: https://github.com/kdn251/interviews
 ##  What happens when
 
 This repository is dedicated to providing a detailed answer to the common interview question: "What happens when you type google.com into your browser's address box and press enter?"
+
 Rather than offering a brief overview, this project aims to delve into every aspect of the process, leaving no detail unexplored.
 It invites collaboration from the community, encouraging contributors to add missing details and improve the comprehensiveness of the explanation.
+
 If you're interested in understanding the intricate workings behind web browsing, this repository offers an opportunity to contribute to and learn from a comprehensive exploration of the topic.
 
 Repo link: https://github.com/alex/what-happens-when
@@ -402,3 +408,18 @@ Repo link: https://github.com/alex/what-happens-when
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
+##  30 seconds of code
+
+This is a repository housing a curated collection of useful JavaScript snippets, each designed to perform a specific task in 30 seconds or less.
+
+Organized into categories such as string manipulation, array manipulation, and math-related functions, these snippets aim to provide quick solutions to common programming challenges.
+
+Contributors are encouraged to submit their own snippets or improvements via pull requests, fostering a collaborative environment for sharing knowledge and enhancing the repository's utility.
+
+With its focus on brevity and practicality, "30-seconds-of-code" serves as a valuable resource for JavaScript developers seeking concise yet effective code solutions.
+
+Repo link: https://github.com/Chalarangelo/30-seconds-of-code
+
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
