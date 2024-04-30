@@ -32,6 +32,7 @@ This repository aims to solve this problem by having a list of those important a
 23. [Interviews](#interviews)
 24. [What happens when](#what-happens-when)
 25. [30 seconds of code](#30-seconds-of-code)
+26. [System design](#system-design)
 
 ## Roadmap
 Many codies often say that they don’t have an exact idea of the roadmap to what they want to become.
@@ -419,6 +420,23 @@ Contributors are encouraged to submit their own snippets or improvements via pul
 With its focus on brevity and practicality, "30-seconds-of-code" serves as a valuable resource for JavaScript developers seeking concise yet effective code solutions.
 
 Repo link: https://github.com/Chalarangelo/30-seconds-of-code
+
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
+##  System design
+
+The repository is a comprehensive resource covering system design principles and practical applications.
+
+Organized into chapters, it explores fundamental concepts such as networking protocols, databases, and scalability techniques.
+
+Advanced topics like microservices architecture, security protocols, and disaster recovery strategies are also addressed.
+
+With real-world examples like WhatsApp and Netflix, the repository offers valuable insights and solutions for designing scalable and reliable software systems.
+
+Repo link: https://github.com/karanpratapsingh/system-design
+Website : https://www.karanpratapsingh.com/courses/system-design
 
 <div align="right">
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
