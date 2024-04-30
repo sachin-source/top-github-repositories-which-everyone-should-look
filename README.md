@@ -29,6 +29,7 @@ This repository aims to solve this problem by having a list of those important a
 20. [The Algorithms](#the-algorithms)
 21. [You don't know js](#you-dont-know-js)
 22. [Curated List of DevOps Tools](#curated-List-of-devops-tools)
+23. [Interviews](#interviews)
 
 ## Roadmap
 Many codies often say that they don’t have an exact idea of the roadmap to what they want to become.
@@ -368,6 +369,19 @@ This repository contains a curated collection of DevOps tools. including descrip
 One can refer to this repository as a started guide and a good reference book for a DevOps career.
 
 Repo Link : https://github.com/techiescamp/devops-tools/
+
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
+##  Interviews
+
+This repository is a comprehensive resource for technical interview preparation in software engineering.
+It covers topics like data structures, algorithms, system design, and coding challenges.
+Organized with clear sections, it offers a structured approach for studying.
+Contributors can enhance its content, and also includes additional resources and contact information for inquiries.
+
+Repo link: https://github.com/kdn251/interviews  
 
 <div align="right">
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
