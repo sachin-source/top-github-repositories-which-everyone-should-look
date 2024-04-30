@@ -30,6 +30,7 @@ This repository aims to solve this problem by having a list of those important a
 21. [You don't know js](#you-dont-know-js)
 22. [Curated List of DevOps Tools](#curated-List-of-devops-tools)
 23. [Interviews](#interviews)
+24. [What happens when](#what-happens-when)
 
 ## Roadmap
 Many codies often say that they don’t have an exact idea of the roadmap to what they want to become.
@@ -386,3 +387,18 @@ Repo link: https://github.com/kdn251/interviews
 <div align="right">
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
+
+
+##  What happens when
+
+This repository is dedicated to providing a detailed answer to the common interview question: "What happens when you type google.com into your browser's address box and press enter?"
+Rather than offering a brief overview, this project aims to delve into every aspect of the process, leaving no detail unexplored.
+It invites collaboration from the community, encouraging contributors to add missing details and improve the comprehensiveness of the explanation.
+If you're interested in understanding the intricate workings behind web browsing, this repository offers an opportunity to contribute to and learn from a comprehensive exploration of the topic.
+
+Repo link: https://github.com/alex/what-happens-when
+
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
