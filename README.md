@@ -34,6 +34,8 @@ This repository aims to solve this problem by having a list of those important a
 25. [30 seconds of code](#30-seconds-of-code)
 26. [System design](#system-design)
 27. [Devops exercises](#devops-exercises)
+28. [System Design Resources](#system-design-resources)
+
 
 ## Roadmap
 Many codies often say that they don’t have an exact idea of the roadmap to what they want to become.
@@ -454,6 +456,71 @@ While beneficial for aspiring DevOps engineers, it's important to note that mast
 The repository also includes a FAQ page for further guidance.
 
 Repo link: https://github.com/bregman-arie/devops-exercises
+
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
+## System Design Resources
+
+This offers an extensive collection of resources for mastering system design concepts.
+
+Covering a wide array of topics, it includes detailed guides, articles, and videos on video processing, cluster management, messaging systems, databases, network protocols, API design, and more.
+
+From practical system design to advanced topics like distributed consensus and authorization, this repository serves as a comprehensive guide for engineers aiming to enhance their system design skills.
+
+Whether you're preparing for interviews or seeking to deepen your understanding of scalable architectures, these resources provide invaluable insights and knowledge.
+
+Repo link: https://github.com/InterviewReady/system-design-resources
+
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
+## Data Structures Algorithms with Low and High Level Designs
+
+The "Data-Structure-Algorithms-LLD-HLD" repository offers a comprehensive collection of theory, practice problems, and resources for mastering data structures, algorithms, and system design concepts.
+
+It includes theoretical explanations coupled with practical problems for readers to reinforce their understanding.
+
+Competitive programming enthusiasts will find curated lists from top platforms like Topcoder, CodeForces, HackerEarth, and InterviewBit, along with dynamic programming patterns, bit manipulation tricks, and binary search patterns categorized on LeetCode.
+
+Additionally, the repository features guides on system design, interview question lists based on company, and a compilation of top university courses.
+
+With its wealth of resources, this repository serves as a valuable toolkit for anyone seeking to excel in data structures, algorithms, and system design.
+
+Repo link: https://github.com/arpit20adlakha/Data-Structure-Algorithms-LLD-HLD
+
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
+## Engineering Blogs
+
+This provides a curated list of engineering blogs categorized by companies, individual/group contributors, and products/technologies.
+
+With alphabetical organization, users can easily navigate through the extensive collection of blogs from various sources.
+
+Whether you're interested in learning about specific companies' engineering practices, insights from individual contributors, or updates on products and technologies, this repository serves as a valuable resource for staying informed about the latest developments in the tech industry.
+
+Repo link: https://github.com/kilimchoi/engineering-blogs
+
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
+
+## System Design 101
+
+The "system-design-101" repository on GitHub serves as a comprehensive guide covering various aspects of system design, software architecture, and technology concepts.
+
+From communication protocols like REST API vs GraphQL to microservice architecture and cloud services, it delves into topics such as CI/CD pipelines, database structures, caching strategies, and security mechanisms.
+
+Additionally, it provides real-world case studies from renowned companies like Netflix, Twitter, Airbnb, and Amazon Prime Video, offering insights into their architecture evolution and technical challenges.
+
+With practical explanations and examples, this repository is a valuable resource for both beginners and experienced developers looking to enhance their understanding of system design principles and industry practices.
+
+Repo link: https://github.com/ByteByteGoHq/system-design-101
 
 <div align="right">
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
