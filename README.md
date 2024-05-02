@@ -40,6 +40,7 @@ This repository aims to solve this problem by having a list of those important a
 31. [System Design 101](#system-design-101)
 
 
+
 ## Roadmap
 Many codies often say that they don’t have an exact idea of the roadmap to what they want to become.
 I was frequently being asked questions regarding the roadmaps to full-stack development, data science, machine learning, etc… And to all of them, look at here buddy!
