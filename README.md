@@ -38,7 +38,7 @@ This repository aims to solve this problem by having a list of those important a
 29. [Data Structures Algorithms with Low and High Level Designs](#data-structures-algorithms-with-low-and-high-level-designs)
 30. [Engineering Blogs](#engineering-blogs)
 31. [System Design 101](#system-design-101)
-
+32. [Resources to Become a Great Engineering Leader](https://github.com/gregorojstersek/resources-to-become-a-great-engineering-leader)
 
 
 ## Roadmap
@@ -525,6 +525,27 @@ Additionally, it provides real-world case studies from renowned companies like N
 With practical explanations and examples, this repository is a valuable resource for both beginners and experienced developers looking to enhance their understanding of system design principles and industry practices.
 
 Repo link: https://github.com/ByteByteGoHq/system-design-101
+
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
+
+## Resources To Become A Great Engineering Leader
+
+This repository is a curated list of over 100 resources aimed at aspiring engineering leaders.
+
+It covers a wide range of topics including software engineering, system design, data engineering, leadership, management, product, and business.
+
+With books, newsletters, influential people, and more, the repository offers valuable resources for personal and professional growth in 2024.
+
+The creator emphasizes the importance of investing time wisely by selecting resources based on specific needs and conducting deep dives into chosen topics.
+
+Additionally, they encourage individuals to assess their current skills to prioritize learning areas for maximum impact.
+
+Whether you're seeking to enhance your technical expertise or develop leadership skills, this repository provides a wealth of resources to help you on your journey.
+
+Repo link: https://github.com/gregorojstersek/resources-to-become-a-great-engineering-leader
 
 <div align="right">
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
