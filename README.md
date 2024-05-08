@@ -38,7 +38,7 @@ This repository aims to solve this problem by having a list of those important a
 29. [Data Structures Algorithms with Low and High Level Designs](#data-structures-algorithms-with-low-and-high-level-designs)
 30. [Engineering Blogs](#engineering-blogs)
 31. [System Design 101](#system-design-101)
-32. [Resources to Become a Great Engineering Leader](https://github.com/gregorojstersek/resources-to-become-a-great-engineering-leader)
+32. [Resources to Become a Great Engineering Leader](#resources-to-become-a-great-engineering-leader)
 
 
 ## Roadmap
