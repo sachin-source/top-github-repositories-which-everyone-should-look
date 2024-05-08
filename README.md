@@ -39,6 +39,7 @@ This repository aims to solve this problem by having a list of those important a
 30. [Engineering Blogs](#engineering-blogs)
 31. [System Design 101](#system-design-101)
 32. [Resources to Become a Great Engineering Leader](#resources-to-become-a-great-engineering-leader)
+33. [DevOps Roadmap](#DevOps-Roadmap)
 
 
 ## Roadmap
@@ -546,6 +547,22 @@ Additionally, they encourage individuals to assess their current skills to prior
 Whether you're seeking to enhance your technical expertise or develop leadership skills, this repository provides a wealth of resources to help you on your journey.
 
 Repo link: https://github.com/gregorojstersek/resources-to-become-a-great-engineering-leader
+
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
+## DevOps Roadmap
+
+The "DevOps-Roadmap" repository on GitHub provides a structured roadmap and learning resources for aspiring DevOps engineers, predominantly offering free resources.
+
+The roadmap covers essential areas such as GIT, programming languages, Linux and scripting, networking and security, server management, containers, container orchestration, infrastructure as code, CI/CD, monitoring and observability, cloud providers, and software engineering practices.
+
+Additionally, the repository includes additional resources, tools, and recommended books to further support learning and development in the DevOps field.
+
+With its comprehensive approach, this repository serves as a valuable guide for individuals looking to build expertise in DevOps practices and technologies.
+
+Repo link: https://github.com/milanm/DevOps-Roadmap
 
 <div align="right">
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
