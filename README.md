@@ -580,7 +580,7 @@ The repository also explains about some of the useful architectural patterns and
 Overall, this is a repo which should be considered as one of the important and useful material to prepare for the system design interviews.
 
 Repo link: https://github.com/ashishps1/awesome-system-design-resources  
-Website : blog.algomaster.io
+Website : https://blog.algomaster.io
 
 <div align="right">
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
