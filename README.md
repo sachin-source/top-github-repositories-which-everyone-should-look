@@ -39,6 +39,7 @@ Whether you're a student, coder, researcher, or a budding tech enthusiast, these
 31. [System Design 101](#system-design-101)
 32. [Resources to Become a Great Engineering Leader](#resources-to-become-a-great-engineering-leader)
 33. [DevOps Roadmap](#DevOps-Roadmap)
+34. [Awesome System Design Sources](#Awesome-system-design-resources)
 
 
 ## Roadmap
@@ -562,6 +563,24 @@ Additionally, the repository includes additional resources, tools, and recommend
 With its comprehensive approach, this repository serves as a valuable guide for individuals looking to build expertise in DevOps practices and technologies.
 
 Repo link: https://github.com/milanm/DevOps-Roadmap
+
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
+
+## Awesome System Design Resources
+
+This repository contains the resources for most important design concepts to prepare for the interview.
+
+This also covers important Design tradeoffs and throws light on building blocks such as heartbeats, circuit broker, proxy server and etc.
+
+The repository also explains about some of the useful architectural patterns and covers a list of interview questions tagged as Easy, medium and Hard.
+
+Overall, this is a repo which should be considered as one of the important and useful material to prepare for the system design interviews.
+
+Repo link: https://github.com/ashishps1/awesome-system-design-resources
+Website : blog.algomaster.io
 
 <div align="right">
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
