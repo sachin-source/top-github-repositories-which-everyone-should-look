@@ -585,3 +585,15 @@ Website : https://blog.algomaster.io
 <div align="right">
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
+
+## Design Patterns for Humans
+
+This is an effortful approach of making design patterns easy to everyone to understand and practice.
+
+The author systematically explains the Design Patterns and break them into respective categories and explain each of them in easy terms along with the sample code added.
+
+Repo link : https://github.com/kamranahmedse/design-patterns-for-humans
+
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
