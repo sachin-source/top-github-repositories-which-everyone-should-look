@@ -40,6 +40,7 @@ Whether you're a student, coder, researcher, or a budding tech enthusiast, these
 32. [Resources to Become a Great Engineering Leader](#resources-to-become-a-great-engineering-leader)
 33. [DevOps Roadmap](#DevOps-Roadmap)
 34. [Awesome System Design Sources](#Awesome-system-design-resources)
+35. [Design Patterns For Humans](#design-patterns-for-humans)
 
 
 ## Roadmap
