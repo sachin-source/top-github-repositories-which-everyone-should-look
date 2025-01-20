@@ -4,6 +4,8 @@ GitHub hosts countless repositories that are invaluable to developers, students,
 
 Whether you're a student, coder, researcher, or a budding tech enthusiast, these repositories can be game-changers for your projects and learning journey. Explore our list to uncover tools and resources that can elevate your skills and knowledge.
 
+[<img src="https://api.gitsponsors.com/api/badge/img?id=637305737" height="20">](https://api.gitsponsors.com/api/badge/link?p=6wjdWogzOn551pfYuKk+MgNLpK7ICcyX96DqyhDT1sHRa13LYcPe6uH2bwRg0PmwL1EptnTLxhCPUw8J/mwaUw==)
+
 ## Table of contents
 
 1. [Roadmap](#roadmap)
