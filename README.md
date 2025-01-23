@@ -285,7 +285,7 @@ The "JavaScript Algorithms and Data Structures" repository on GitHub is a collec
 
 The repository includes various algorithms and data structures implemented in JavaScript, including sorting algorithms, searching algorithms, graph algorithms, and many more.
 
-Each algorithm or data structure has its own directory in the repository, which includes a JavaScript implementation of the algorithm or data structure, as well as a detailed explanation of how it works and how it can be used.
+Each algorithm or data structure has its directory in the repository, which includes a JavaScript implementation of the algorithm or data structure, as well as a detailed explanation of how it works and how it can be used.
 
 In addition to the main content, the repository also includes additional resources such as links to online courses, tutorials, and books for further study.
 
