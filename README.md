@@ -158,7 +158,7 @@ Website link : https://free-for.dev/
 
 ## Every programmer should know
 
-This repository has a  list of resources that every programmer should know. The repository covers a wide range of topics related to software development, including programming languages, algorithms, databases, security, and more.
+This repository has a list of resources that every programmer should know. The repository covers a wide range of topics related to software development, including programming languages, algorithms, databases, security, and more.
 
 The repository is organized into multiple categories, and each category contains a list of resources related to that category. For example, the "Distributed Systems" category includes resources related to distributed systems, such as articles, books, and videos.
 
