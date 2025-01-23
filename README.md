@@ -354,7 +354,7 @@ This repository aims to provide a collection of algorithms implemented in variou
 
 By visiting the repository, you can browse through the available algorithms, explore the different programming language implementations, and even contribute to the project if you're interested. The repository typically includes code samples, explanations, and documentation to help users understand and utilize the algorithms effectively.
 
-The best part is, you can get the algorithms in many different popular languages.
+The best part is, that you can get the algorithms in many different popular languages.
 
 Repo Link : https://github.com/TheAlgorithms
 
