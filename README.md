@@ -46,12 +46,12 @@ Whether you're a student, coder, researcher, or budding tech enthusiast, these r
 
 
 ## Roadmap
-Many codies often say that they don’t have an exact idea of the roadmap to what they want to become.
+Many people often say that they don't have an exact idea of the roadmap to what they want to become.
 I was frequently being asked questions regarding the roadmaps to full-stack development, data science, machine learning, etc… And to all of them, look at here buddy!
 
-The repository includes a set of well-structured roadmaps that outline the necessary skills and technologies to learn in each path of software development. Each roadmap is divided into different levels, such as beginner, intermediate, and advanced, and includes a list of tools, technologies, and resources to learn at each level.
+The repository includes a set of well-structured roadmaps that outline the necessary skills and technologies for each path of software development. Each roadmap is divided into different levels, such as beginner, intermediate, and advanced, and includes a list of tools, technologies, and resources to learn at each level.
 
-The roadmaps in the repository are designed to help developers navigate the overwhelming amount of information and resources available in the software development world. By following the roadmaps, developers can have a clear direction on what to learn next and how to progress in their career or personal projects.
+The roadmaps in the repository are designed to help developers navigate the overwhelming amount of information and resources available in the software development world. Following the roadmaps gives developers a clear direction on what to learn next and how to progress in their career or personal projects.
 
 Repo link : https://github.com/kamranahmedse/developer-roadmap  
 Website : https://roadmap.sh/
