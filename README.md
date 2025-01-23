@@ -305,7 +305,7 @@ The repository was created by Brad Traversy, a web developer and online instruct
 
 The repository includes a wide range of design resources, such as color palettes, fonts, icons, stock photos, design inspiration, and many more.
 
-Each resource has its own directory in the repository, which includes a brief description of what it is and how it can be used.
+Each resource has its directory in the repository, which includes a brief description of what it is and how it can be used.
 
 In addition to the main content, the repository also includes links to various design-related tutorials, courses, and tools, which can be useful for developers who want to improve their design skills.
 There are also resources specifically for web design, such as responsive design frameworks, CSS libraries, and web design inspiration sites.
