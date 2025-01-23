@@ -394,9 +394,9 @@ This repository is a comprehensive resource for technical interview preparation 
 
 It covers topics like data structures, algorithms, system design, and coding challenges.
 
-Organized with clear sections, it offers a structured approach for studying.
+Organized with clear sections, it offers a structured approach to preparing.
 
-Contributors can enhance its content, and also includes additional resources and contact information for inquiries.
+Contributors can enhance its content and include additional resources and contact information for inquiries.
 
 Repo link: https://github.com/kdn251/interviews  
 
