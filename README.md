@@ -249,13 +249,13 @@ Repo Link : https://github.com/ReactNativeNews/React-Native-Apps
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-## Build Your own X
+## Build Your Own X
 
-This repo helps you understand and build your own clones of many projects from code editor to your own database.
+This repo helps you understand and build your clones of many projects from the code editor to your database.
 
-This provides a curated list of tutorials and resources for building your own version of popular software tools and applications.
+This provides a curated list of tutorials and resources for building your version of popular software tools and applications.
 
-The repository is organized into categories, each of which contains a list of resources related to that category. For example, the "Build your own Text Editor" category includes tutorials and resources for building a text editor from scratch.
+The repository is organized into categories, each of which contains a list of resources related to that category. For example, the "Build your Text Editor" category includes tutorials and resources for building a text editor from scratch.
 
 The repository also includes a brief description of each resource and why it is useful for developers. This makes it easier for users to find the resources that are relevant to their needs.
 
