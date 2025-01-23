@@ -170,17 +170,17 @@ Repo link : https://github.com/mtdvio/every-programmer-should-know
 
 ## Tensorflow
 
-Tensorflow provides a comprehensive platform for developing and deploying machine learning models.  
+Tensorflow provides a comprehensive platform for developing and deploying machine learning models.
 
 TensorFlow is one of the most popular machine learning libraries in the world, with a vast user community and an extensive range of applications.
 
-The repository contains the complete source code for TensorFlow, including its core libraries, tools, and examples.  
+The repository contains the complete source code for TensorFlow, including its core libraries, tools, and examples.
 
-TensorFlow supports a wide range of machine learning algorithms, including deep neural networks, convolutional neural networks, recurrent neural networks, and more.  
+TensorFlow supports a wide range of machine learning algorithms, including deep neural networks, convolutional neural networks, recurrent neural networks, and more.
 
-It also supports distributed computing, which enables developers to scale their machine learning models across multiple devices and machines.
+It also supports distributed computing, which enables developers to scale their machine-learning models across multiple devices and machines.
 
-The TensorFlow platform provides a high-level API that allows developers to build and train machine learning models quickly and easily.  
+The TensorFlow platform provides a high-level API that allows developers to build and train machine learning models quickly and easily.
 
 The platform supports multiple programming languages, including Python, C++, Java, and Go, which makes it accessible to a wide range of developers.
 
