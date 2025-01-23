@@ -145,7 +145,7 @@ Repo link : https://github.com/github/gitignore
 ## Free For Dev
 
 This repo provides a curated list of free services, software, and resources for developers.  
-It also  includes a list of various tools and services that developers can use for free, such as cloud hosting, domain registration, databases, email services, and more.
+It also includes a list of various tools and services that developers can use for free, such as cloud hosting, domain registration, databases, email services, and more.
 
 The repository is organized into multiple categories, and each category contains a list of resources related to that category. For example, the "Hosting" category includes a list of free cloud hosting services, while the "Analytics" category includes a list of free analytics and tracking tools.
 
