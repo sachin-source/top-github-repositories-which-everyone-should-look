@@ -192,7 +192,7 @@ Repo Link : https://github.com/tensorflow/tensorflow
 
 ## Public APIs
 
-This repository contains a great list of apis to play around them from various domains including sports, news and entertainment.
+This repository contains a great list of APIs to play around them from various domains including sports, news, and entertainment.
 
 The repository is organized into multiple categories, and each category contains a list of APIs related to that category. For example, the "Weather" category includes a list of APIs related to weather, such as OpenWeatherMap and Weatherbit.
 
