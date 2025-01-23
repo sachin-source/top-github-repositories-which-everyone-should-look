@@ -426,7 +426,7 @@ This is a repository housing a curated collection of useful JavaScript snippets,
 
 Organized into categories such as string manipulation, array manipulation, and math-related functions, these snippets aim to provide quick solutions to common programming challenges.
 
-Contributors are encouraged to submit their own snippets or improvements via pull requests, fostering a collaborative environment for sharing knowledge and enhancing the repository's utility.
+Contributors are encouraged to submit their snippets or improvements via pull requests, fostering a collaborative environment for sharing knowledge and enhancing the repository's utility.
 
 With its focus on brevity and practicality, "30-seconds-of-code" serves as a valuable resource for JavaScript developers seeking concise yet effective code solutions.
 
