@@ -79,11 +79,11 @@ Repo link: https://github.com/sindresorhus/awesome
 
 ## Coding interview university
 
-There are many students around the world who are interested in becoming software developers but have no idea of what to study and how to crack the interviews!  
+Many students around the world are interested in becoming software developers but have no idea of what to study and how to crack the interviews!
 
-Boom!! Here’s the boon.  
+Boom!! Here’s the boon.
 
-This repo provides a comprehensive list of topics and resources for preparing for coding interviews. The repository covers various topics such as data structures, algorithms, system design, databases, and more.
+This repo provides a comprehensive list of topics and resources for preparing for coding interviews. It covers various topics, such as data structures, algorithms, system design, databases, and more.
 
 The repository is organized into a well-structured curriculum that follows a step-by-step approach to preparing for coding interviews. Each topic includes a list of resources, including books, articles, videos, and practice problems, to help learners master the concept.
 
