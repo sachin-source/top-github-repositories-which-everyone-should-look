@@ -237,11 +237,11 @@ Repo Link : https://github.com/sdmg15/Best-websites-a-programmer-should-visit/
 
 ## React Native apps
 
-This repo contains curated list of open-source React Native apps that developers can use as examples or as a starting point for their own projects.
+This repo contains a curated list of open-source React Native apps that developers can use as examples or as a starting point for their projects.
 
 The repository contains a wide range of apps, from simple to complex, and covers a variety of categories, such as productivity, social networking, e-commerce, health and fitness, and more. Each app listed in the repository includes a brief description of its features and functionality.
 
-This repository provides an excellent way for developers to find high-quality, open-source React Native apps, and use them as a reference for their own projects.
+This repository provides an excellent way for developers to find high-quality, open-source React Native apps and use them as a reference for their projects.
 
 Repo Link : https://github.com/ReactNativeNews/React-Native-Apps
 
