@@ -453,9 +453,9 @@ Website : https://www.karanpratapsingh.com/courses/system-design
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-##  Devops exercises
+##  DevOps exercises
 
-The "devops-exercises" repository is a rich collection of technical questions and exercises, covering various topics, with a focus on DevOps and SRE (Site Reliability Engineering).
+The "DevOps-exercises" repository is a rich collection of technical questions and exercises, covering various topics, with a focus on DevOps and SRE (Site Reliability Engineering).
 
 Currently boasting 2600+ exercises, it serves as a valuable resource for interview preparation, though many questions may not reflect actual interview scenarios.
 
