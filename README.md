@@ -134,7 +134,7 @@ This repo provides a collection of `.gitignore` templates for various programmin
 
 The repository includes a comprehensive set of `.gitignore` templates that can be used in different projects. These templates are organized by programming language or framework and include common files and directories that should be ignored in those projects.
 
-Using a `.gitignore` file is essential in maintaining a clean and organized repository. By ignoring unnecessary files, developers can keep their repositories small, avoid accidentally committing sensitive information, and prevent merge conflicts caused by different file versions.
+Usage of the `.gitignore` file is essential in maintaining a clean and organized repository. By ignoring unnecessary files, developers can keep their repositories small, avoid accidentally committing sensitive information, and prevent merge conflicts caused by different file versions.
 
 Repo link : https://github.com/github/gitignore  
 
