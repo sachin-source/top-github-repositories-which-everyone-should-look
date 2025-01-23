@@ -4,7 +4,7 @@ GitHub hosts countless repositories invaluable to developers, students, research
 
 Whether you're a student, coder, researcher, or budding tech enthusiast, these repositories can be game-changers for your projects and learning journey. Explore our list to uncover tools and resources to elevate your skills and knowledge.
 
-[<img src="https://api.gitsponsors.com/api/badge/img?id=637305737" height="20">](https://api.gitsponsors.com/api/badge/link?p=6wjdWogzOn551pfYuKk+MgNLpK7ICcyX96DqyhDT1sHRa13LYcPe6uH2bwRg0PmwL1EptnTLxhCPUw8J/mwaUw==)
+[<img src="https://api.gitsponsors.com/api/badge/img?id=637305737" height="40">](https://api.gitsponsors.com/api/badge/link?p=6wjdWogzOn551pfYuKk+MgNLpK7ICcyX96DqyhDT1sHRa13LYcPe6uH2bwRg0PmwL1EptnTLxhCPUw8J/mwaUw==)
 
 ## Table of contents
 
@@ -79,11 +79,11 @@ Repo link: https://github.com/sindresorhus/awesome
 
 ## Coding interview university
 
-There are many students around the world who are interested in becoming software developers but have no idea of what to study and how to crack the interviews!  
+Many students around the world are interested in becoming software developers but have no idea of what to study and how to crack the interviews!
 
-Boom!! Here’s the boon.  
+Boom!! Here’s the boon.
 
-This repo provides a comprehensive list of topics and resources for preparing for coding interviews. The repository covers various topics such as data structures, algorithms, system design, databases, and more.
+This repo provides a comprehensive list of topics and resources for preparing for coding interviews. It covers various topics, such as data structures, algorithms, system design, databases, and more.
 
 The repository is organized into a well-structured curriculum that follows a step-by-step approach to preparing for coding interviews. Each topic includes a list of resources, including books, articles, videos, and practice problems, to help learners master the concept.
 
@@ -120,7 +120,7 @@ Freecodecamp is an open-source project aimed at helping people learn to code for
 
 The freeCodeCamp curriculum is designed to be accessible to learners of all levels, from beginners to advanced coders. It is self-paced, interactive, and project-based, which means that learners can learn by doing and get hands-on experience building real-world projects.
 
-This project is entirely free and open-source, which means that anyone can contribute to the project and use the curriculum to learn to code. The project has helped millions of people around the world to learn to code and has become one of the most popular resources for learning web development.
+This project is entirely free and open-source, which means that anyone can contribute to the project and use the curriculum to learn to code. The project has helped millions of people around the world learn to code and has become one of the most popular resources for learning web development.
 
 Repo link : https://github.com/freeCodeCamp/freeCodeCamp  
 
@@ -134,7 +134,7 @@ This repo provides a collection of `.gitignore` templates for various programmin
 
 The repository includes a comprehensive set of `.gitignore` templates that can be used in different projects. These templates are organized by programming language or framework and include common files and directories that should be ignored in those projects.
 
-Using a `.gitignore` file is essential in maintaining a clean and organized repository. By ignoring unnecessary files, developers can keep their repositories small, avoid accidentally committing sensitive information, and prevent merge conflicts caused by different file versions.
+Usage of the `.gitignore` file is essential in maintaining a clean and organized repository. By ignoring unnecessary files, developers can keep their repositories small, avoid accidentally committing sensitive information, and prevent merge conflicts caused by different file versions.
 
 Repo link : https://github.com/github/gitignore  
 
@@ -145,7 +145,7 @@ Repo link : https://github.com/github/gitignore
 ## Free For Dev
 
 This repo provides a curated list of free services, software, and resources for developers.  
-It also  includes a list of various tools and services that developers can use for free, such as cloud hosting, domain registration, databases, email services, and more.
+It also includes a list of various tools and services that developers can use for free, such as cloud hosting, domain registration, databases, email services, and more.
 
 The repository is organized into multiple categories, and each category contains a list of resources related to that category. For example, the "Hosting" category includes a list of free cloud hosting services, while the "Analytics" category includes a list of free analytics and tracking tools.
 
@@ -158,7 +158,7 @@ Website link : https://free-for.dev/
 
 ## Every programmer should know
 
-This repository has a  list of resources that every programmer should know. The repository covers a wide range of topics related to software development, including programming languages, algorithms, databases, security, and more.
+This repository has a list of resources that every programmer should know. The repository covers a wide range of topics related to software development, including programming languages, algorithms, databases, security, and more.
 
 The repository is organized into multiple categories, and each category contains a list of resources related to that category. For example, the "Distributed Systems" category includes resources related to distributed systems, such as articles, books, and videos.
 
@@ -170,17 +170,17 @@ Repo link : https://github.com/mtdvio/every-programmer-should-know
 
 ## Tensorflow
 
-Tensorflow provides a comprehensive platform for developing and deploying machine learning models.  
+Tensorflow provides a comprehensive platform for developing and deploying machine learning models.
 
 TensorFlow is one of the most popular machine learning libraries in the world, with a vast user community and an extensive range of applications.
 
-The repository contains the complete source code for TensorFlow, including its core libraries, tools, and examples.  
+The repository contains the complete source code for TensorFlow, including its core libraries, tools, and examples.
 
-TensorFlow supports a wide range of machine learning algorithms, including deep neural networks, convolutional neural networks, recurrent neural networks, and more.  
+TensorFlow supports a wide range of machine learning algorithms, including deep neural networks, convolutional neural networks, recurrent neural networks, and more.
 
-It also supports distributed computing, which enables developers to scale their machine learning models across multiple devices and machines.
+It also supports distributed computing, which enables developers to scale their machine-learning models across multiple devices and machines.
 
-The TensorFlow platform provides a high-level API that allows developers to build and train machine learning models quickly and easily.  
+The TensorFlow platform provides a high-level API that allows developers to build and train machine learning models quickly and easily.
 
 The platform supports multiple programming languages, including Python, C++, Java, and Go, which makes it accessible to a wide range of developers.
 
@@ -192,7 +192,7 @@ Repo Link : https://github.com/tensorflow/tensorflow
 
 ## Public APIs
 
-This repository contains a great list of apis to play around them from various domains including sports, news and entertainment.
+This repository contains a great list of APIs to play around them from various domains including sports, news, and entertainment.
 
 The repository is organized into multiple categories, and each category contains a list of APIs related to that category. For example, the "Weather" category includes a list of APIs related to weather, such as OpenWeatherMap and Weatherbit.
 
@@ -226,7 +226,7 @@ Repo Link : https://github.com/lydiahallie/javascript-questions
 
 This repo provides a curated list of websites that programmers can use to improve their skills, learn new programming languages, and stay up-to-date with the latest industry trends.
 
-The repository is organized into multiple categories, and each category contains a list of websites related to that category.  
+The repository is organized into multiple categories, and each category contains a list of websites related to that category.
 For example, the "Online Learning" category includes a list of websites that offer online courses and tutorials, such as Codecademy, Coursera, and Udacity.
 
 Repo Link : https://github.com/sdmg15/Best-websites-a-programmer-should-visit/
@@ -237,11 +237,11 @@ Repo Link : https://github.com/sdmg15/Best-websites-a-programmer-should-visit/
 
 ## React Native apps
 
-This repo contains curated list of open-source React Native apps that developers can use as examples or as a starting point for their own projects.
+This repo contains a curated list of open-source React Native apps that developers can use as examples or as a starting point for their projects.
 
 The repository contains a wide range of apps, from simple to complex, and covers a variety of categories, such as productivity, social networking, e-commerce, health and fitness, and more. Each app listed in the repository includes a brief description of its features and functionality.
 
-This repository provides an excellent way for developers to find high-quality, open-source React Native apps, and use them as a reference for their own projects.
+This repository provides an excellent way for developers to find high-quality, open-source React Native apps and use them as a reference for their projects.
 
 Repo Link : https://github.com/ReactNativeNews/React-Native-Apps
 
@@ -249,13 +249,13 @@ Repo Link : https://github.com/ReactNativeNews/React-Native-Apps
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-## Build Your own X
+## Build Your Own X
 
-This repo helps you understand and build your own clones of many projects from code editor to your own database.
+This repo helps you understand and build your clones of many projects from the code editor to your database.
 
-This provides a curated list of tutorials and resources for building your own version of popular software tools and applications.
+This provides a curated list of tutorials and resources for building your version of popular software tools and applications.
 
-The repository is organized into categories, each of which contains a list of resources related to that category. For example, the "Build your own Text Editor" category includes tutorials and resources for building a text editor from scratch.
+The repository is organized into categories, each of which contains a list of resources related to that category. For example, the "Build your Text Editor" category includes tutorials and resources for building a text editor from scratch.
 
 The repository also includes a brief description of each resource and why it is useful for developers. This makes it easier for users to find the resources that are relevant to their needs.
 
@@ -285,7 +285,7 @@ The "JavaScript Algorithms and Data Structures" repository on GitHub is a collec
 
 The repository includes various algorithms and data structures implemented in JavaScript, including sorting algorithms, searching algorithms, graph algorithms, and many more.
 
-Each algorithm or data structure has its own directory in the repository, which includes a JavaScript implementation of the algorithm or data structure, as well as a detailed explanation of how it works and how it can be used.
+Each algorithm or data structure has its directory in the repository, which includes a JavaScript implementation of the algorithm or data structure, as well as a detailed explanation of how it works and how it can be used.
 
 In addition to the main content, the repository also includes additional resources such as links to online courses, tutorials, and books for further study.
 
@@ -305,7 +305,7 @@ The repository was created by Brad Traversy, a web developer and online instruct
 
 The repository includes a wide range of design resources, such as color palettes, fonts, icons, stock photos, design inspiration, and many more.
 
-Each resource has its own directory in the repository, which includes a brief description of what it is and how it can be used.
+Each resource has its directory in the repository, which includes a brief description of what it is and how it can be used.
 
 In addition to the main content, the repository also includes links to various design-related tutorials, courses, and tools, which can be useful for developers who want to improve their design skills.
 There are also resources specifically for web design, such as responsive design frameworks, CSS libraries, and web design inspiration sites.
@@ -354,7 +354,7 @@ This repository aims to provide a collection of algorithms implemented in variou
 
 By visiting the repository, you can browse through the available algorithms, explore the different programming language implementations, and even contribute to the project if you're interested. The repository typically includes code samples, explanations, and documentation to help users understand and utilize the algorithms effectively.
 
-The best part is, you can get the algorithms in many different popular languages.
+The best part is, that you can get the algorithms in many different popular languages.
 
 Repo Link : https://github.com/TheAlgorithms
 
@@ -394,9 +394,9 @@ This repository is a comprehensive resource for technical interview preparation 
 
 It covers topics like data structures, algorithms, system design, and coding challenges.
 
-Organized with clear sections, it offers a structured approach for studying.
+Organized with clear sections, it offers a structured approach to preparing.
 
-Contributors can enhance its content, and also includes additional resources and contact information for inquiries.
+Contributors can enhance its content and include additional resources and contact information for inquiries.
 
 Repo link: https://github.com/kdn251/interviews  
 
@@ -426,7 +426,7 @@ This is a repository housing a curated collection of useful JavaScript snippets,
 
 Organized into categories such as string manipulation, array manipulation, and math-related functions, these snippets aim to provide quick solutions to common programming challenges.
 
-Contributors are encouraged to submit their own snippets or improvements via pull requests, fostering a collaborative environment for sharing knowledge and enhancing the repository's utility.
+Contributors are encouraged to submit their snippets or improvements via pull requests, fostering a collaborative environment for sharing knowledge and enhancing the repository's utility.
 
 With its focus on brevity and practicality, "30-seconds-of-code" serves as a valuable resource for JavaScript developers seeking concise yet effective code solutions.
 
@@ -453,9 +453,9 @@ Website : https://www.karanpratapsingh.com/courses/system-design
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-##  Devops exercises
+##  DevOps exercises
 
-The "devops-exercises" repository is a rich collection of technical questions and exercises, covering various topics, with a focus on DevOps and SRE (Site Reliability Engineering).
+The "DevOps-exercises" repository is a rich collection of technical questions and exercises, covering various topics, with a focus on DevOps and SRE (Site Reliability Engineering).
 
 Currently boasting 2600+ exercises, it serves as a valuable resource for interview preparation, though many questions may not reflect actual interview scenarios.
 
@@ -574,13 +574,13 @@ Repo link: https://github.com/milanm/DevOps-Roadmap
 
 ## Awesome System Design Resources
 
-This repository contains the resources for most important design concepts to prepare for the interview.
+This repository contains the resources for the most important design concepts to prepare for the interview.
 
-This also covers important Design tradeoffs and throws light on building blocks such as heartbeats, circuit broker, proxy server and etc.
+This also covers important Design tradeoffs and throws light on building blocks such as heartbeats, circuit brokers, proxy servers, etc.
 
-The repository also explains about some of the useful architectural patterns and covers a list of interview questions tagged as Easy, medium and Hard.
+The repository also explains some of the useful architectural patterns and covers a list of interview questions tagged as Easy, Medium, and Hard.
 
-Overall, this is a repo which should be considered as one of the important and useful material to prepare for the system design interviews.
+Overall, this is a repo that should be considered as one of the important and useful materials to prepare for the system design interviews.
 
 Repo link: https://github.com/ashishps1/awesome-system-design-resources  
 Website : https://blog.algomaster.io
@@ -591,9 +591,9 @@ Website : https://blog.algomaster.io
 
 ## Design Patterns for Humans
 
-This is an effortful approach of making design patterns easy to everyone to understand and practice.
+This is an effortful approach to making design patterns easy for everyone to understand and practice.
 
-The author systematically explains the Design Patterns and break them into respective categories and explain each of them in easy terms along with the sample code added.
+The author systematically explains the Design Patterns breaks them into respective categories and explains each of them in easy terms along with the sample code added.
 
 Repo link : https://github.com/kamranahmedse/design-patterns-for-humans
 
