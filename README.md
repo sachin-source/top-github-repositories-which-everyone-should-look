@@ -1,8 +1,8 @@
 # Top GitHub repositories everyone should look at!
 
-GitHub hosts countless repositories that are invaluable to developers, students, researchers, and tech enthusiasts. Unfortunately, many of these repositories remain under the radar, despite the significant efforts of their authors.This repository aims to bridge that gap by curating a list of crucial and impactful GitHub repositories.
+GitHub hosts countless repositories invaluable to developers, students, researchers, and tech enthusiasts. Unfortunately, despite the significant efforts of their authors, many of these repositories remain under the radar. This repository aims to bridge that gap by curating a list of crucial and impactful GitHub repositories.
 
-Whether you're a student, coder, researcher, or a budding tech enthusiast, these repositories can be game-changers for your projects and learning journey. Explore our list to uncover tools and resources that can elevate your skills and knowledge.
+Whether you're a student, coder, researcher, or budding tech enthusiast, these repositories can be game-changers for your projects and learning journey. Explore our list to uncover tools and resources to elevate your skills and knowledge.
 
 [<img src="https://api.gitsponsors.com/api/badge/img?id=637305737" height="20">](https://api.gitsponsors.com/api/badge/link?p=6wjdWogzOn551pfYuKk+MgNLpK7ICcyX96DqyhDT1sHRa13LYcPe6uH2bwRg0PmwL1EptnTLxhCPUw8J/mwaUw==)
 
