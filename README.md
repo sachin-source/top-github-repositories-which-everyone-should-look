@@ -120,7 +120,7 @@ Freecodecamp is an open-source project aimed at helping people learn to code for
 
 The freeCodeCamp curriculum is designed to be accessible to learners of all levels, from beginners to advanced coders. It is self-paced, interactive, and project-based, which means that learners can learn by doing and get hands-on experience building real-world projects.
 
-This project is entirely free and open-source, which means that anyone can contribute to the project and use the curriculum to learn to code. The project has helped millions of people around the world to learn to code and has become one of the most popular resources for learning web development.
+This project is entirely free and open-source, which means that anyone can contribute to the project and use the curriculum to learn to code. The project has helped millions of people around the world learn to code and has become one of the most popular resources for learning web development.
 
 Repo link : https://github.com/freeCodeCamp/freeCodeCamp  
 
