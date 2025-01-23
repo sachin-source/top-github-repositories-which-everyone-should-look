@@ -574,13 +574,13 @@ Repo link: https://github.com/milanm/DevOps-Roadmap
 
 ## Awesome System Design Resources
 
-This repository contains the resources for most important design concepts to prepare for the interview.
+This repository contains the resources for the most important design concepts to prepare for the interview.
 
-This also covers important Design tradeoffs and throws light on building blocks such as heartbeats, circuit broker, proxy server and etc.
+This also covers important Design tradeoffs and throws light on building blocks such as heartbeats, circuit brokers, proxy servers, etc.
 
-The repository also explains about some of the useful architectural patterns and covers a list of interview questions tagged as Easy, medium and Hard.
+The repository also explains some of the useful architectural patterns and covers a list of interview questions tagged as Easy, Medium, and Hard.
 
-Overall, this is a repo which should be considered as one of the important and useful material to prepare for the system design interviews.
+Overall, this is a repo that should be considered as one of the important and useful materials to prepare for the system design interviews.
 
 Repo link: https://github.com/ashishps1/awesome-system-design-resources  
 Website : https://blog.algomaster.io
