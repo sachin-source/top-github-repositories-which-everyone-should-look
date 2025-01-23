@@ -591,9 +591,9 @@ Website : https://blog.algomaster.io
 
 ## Design Patterns for Humans
 
-This is an effortful approach of making design patterns easy to everyone to understand and practice.
+This is an effortful approach to making design patterns easy for everyone to understand and practice.
 
-The author systematically explains the Design Patterns and break them into respective categories and explain each of them in easy terms along with the sample code added.
+The author systematically explains the Design Patterns breaks them into respective categories and explains each of them in easy terms along with the sample code added.
 
 Repo link : https://github.com/kamranahmedse/design-patterns-for-humans
 
