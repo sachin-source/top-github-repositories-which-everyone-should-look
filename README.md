@@ -61,13 +61,13 @@ Website : https://roadmap.sh/
 </div>
 
 ## Awesome
-This repository seems like a Wikipedia page of a hell lot of things.  
+This repository seems like a Wikipedia page of a hell lot of things.
 
-This repository contains awesome lists of all kinds of interesting topics. Especially provides a curated list of high-quality resources in various fields of software development.  
+This repository contains awesome lists of all kinds of interesting topics. Especially provides a curated list of high-quality resources in various fields of software development.
 
-The repository includes lists of resources on topics such as programming languages, frameworks, libraries, tools, design patterns, and more.  
+The repository includes lists of resources on topics such as programming languages, frameworks, libraries, tools, design patterns, and more.
 
-The repository is organized into multiple categories, and each category contains a list of resources related to that category. For example, the "JavaScript" category includes a list of resources related to JavaScript programming, such as libraries, frameworks, and articles.  
+The repository is organized into multiple categories, and each category contains a list of resources related to that category. For example, the "JavaScript" category includes a list of resources related to JavaScript programming, such as libraries, frameworks, and articles.
 
 Looking at this repo will just make you say… awesome!
 
