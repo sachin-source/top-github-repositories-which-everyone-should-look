@@ -226,7 +226,7 @@ Repo Link : https://github.com/lydiahallie/javascript-questions
 
 This repo provides a curated list of websites that programmers can use to improve their skills, learn new programming languages, and stay up-to-date with the latest industry trends.
 
-The repository is organized into multiple categories, and each category contains a list of websites related to that category.  
+The repository is organized into multiple categories, and each category contains a list of websites related to that category.
 For example, the "Online Learning" category includes a list of websites that offer online courses and tutorials, such as Codecademy, Coursera, and Udacity.
 
 Repo Link : https://github.com/sdmg15/Best-websites-a-programmer-should-visit/
